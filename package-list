@@ -1,0 +1,5 @@
+com.passingplugin.main.api
+com.passingplugin.main.impl
+com.passingplugin.main.pojo
+com.passingplugin.main.service
+com.passingplugin.main.util
